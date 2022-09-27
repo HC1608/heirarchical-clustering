@@ -89,10 +89,3 @@ CLustering was performed using the agglomerative and divisive methods and the fo
 ![Divisive](Results/dendrogram_divisive.png "Divisive")
 
 
-
-## Group Members
-[Shubham Jha](http://github.com/shubhamjha97)
-
-[Praneet Mehta](http://github.com/praneetmehta)
-
-[Abhinav Jain](http://github.com/abhinav1112)
