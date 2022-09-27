@@ -1,8 +1,5 @@
 # Agglomerative and Divisive Hierarchical Clustering
 
-Course Assignment for CS F415- Data Mining @ BITS Pilani, Hyderabad Campus.
-
-**Done under the guidance of Dr. Aruna Malapati, Assistant Professor, BITS Pilani, Hyderabad Campus.**
 
 ## Table of contents
 - [Introduction](#introduction)
